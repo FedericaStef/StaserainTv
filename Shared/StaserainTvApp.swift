@@ -11,7 +11,7 @@ import SwiftUI
 struct StaserainTvApp: App {
     var body: some Scene {
         WindowGroup {
-            MainPage().preferredColorScheme(.dark)
+            MainPage().preferredColorScheme(.light)
         }
     }
 }
